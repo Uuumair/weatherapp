@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather App - CodingWallahSir</title>
+    <title>Weather App - By Umair</title>
      <link rel="stylesheet" href="style.css" />
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 </head>
@@ -17,7 +17,7 @@
 
     <div class="mainContainer">
      <form action="servelett" method="post" class="searchInput">
-            <input type="text" placeholder="Enter City Name" id="searchInput" value="New Delhi" name="city"/>
+            <input type="text" placeholder="Enter City Name" id="searchInput" value="Meerut" name="city"/>
             <button id="searchButton"><i class="fa-solid fa-magnifying-glass"></i></button>
       </form>
         <div class="weatherDetails">
